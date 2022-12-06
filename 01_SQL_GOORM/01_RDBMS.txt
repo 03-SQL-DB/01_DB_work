@@ -1,6 +1,7 @@
 /* Basics */
 
-// MySQL DB-Start
+// MySQL DB-Startexite
+
 mysql-ctl start;
 sudo service mysql start;
 
