@@ -26,9 +26,5 @@ IGNORE 1 ROWS
 (cat_name,fur_color,age) -- Daten in die richtigen Felder sortieren
 ;
 
-
-
-
-
 SELECT * FROM boo.cats;
 
